@@ -10,7 +10,7 @@ Parking spot detection system that:
 - Counts available parking spaces
 - Displays availability on digital sign
 
-**Problem:** Parking congestion during prayer times/jumuah causes traffic backup and frustration
+**Problem:** Parking congestion during prayer times/Jumuah causes traffic backup and frustration
 
 **Solution:** Show drivers availability BEFORE they enter the lot
 
