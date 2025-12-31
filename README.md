@@ -1,6 +1,6 @@
 # Masjid Parking Detection System
 AI-powered parking availability monitor using computer vision to help reduce congestion in parking lots. Camera-based system to estimate open parking spaces in a masjid parking lot
-using computer vision (YOLOv8 AI) and predefined parking spot coordinates.
+using YOLOv8 AI and predefined parking spot coordinates.
 
 ## 🎯 Overview
 
